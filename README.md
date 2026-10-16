@@ -132,22 +132,69 @@ Our planned visual identity:
 
 The interface may include subtle CSS transitions, smooth hover effects, animated loading states, and interactive charts — keeping performance and accessibility a priority.
 
-## 🗺️ Roadmap
 
-- [x] Choose the En Vayal name and initial vision.
-- [x] Begin collecting farmer feedback through a survey.
-- [ ] Analyse feedback and prioritise the biggest problems.
-- [ ] Design the first web application.
-- [ ] Build the initial Flask backend.
-- [ ] Create a responsive farmer dashboard.
-- [ ] Develop the initial database models.
-- [ ] Demonstrate the dashboard with sample data.
-- [ ] Evaluate suitable soil-moisture and water-depth sensors.
-- [ ] Validate readings through a small field pilot.
-- [ ] Explore soil-lab and agricultural-expert partnerships.
-- [ ] Test usability with farmers and improve the product.
+## 🗺️ Project Roadmap
 
-*The roadmap is a working plan and may change as we learn from farmers.*
+En Vayal is an early-stage initiative with a long-term vision of combining agriculture, technology, and farmer-focused services. Our roadmap focuses on understanding real agricultural needs, validating solutions, and growing sustainably.
+
+### 🌱 Phase 1 — Research & Validation
+**Status: In Progress**
+
+- [x] Establish the En Vayal initiative and its vision.
+- [x] Create a farmer survey to understand agricultural needs.
+- [ ] Collect and analyse farmer responses.
+- [ ] Identify the most important problems to solve.
+- [ ] Research existing agricultural services and potential partners.
+
+### 💻 Phase 2 — Digital Foundation
+**Target: Months 1–3**
+
+- [ ] Develop the initial En Vayal web application.
+- [ ] Create farmer profiles and farm records.
+- [ ] Implement agricultural service requests.
+- [ ] Design a foundation for field-monitoring data.
+- [ ] Explore partnerships with soil-testing laboratories and agricultural suppliers.
+
+### 🚜 Phase 3 — Pilot & Field Testing
+**Target: Months 3–6**
+
+- [ ] Identify farmers willing to participate in a small pilot.
+- [ ] Test an initial service based on research findings.
+- [ ] Explore soil-moisture and water-level monitoring.
+- [ ] Gather feedback and evaluate practical usefulness.
+- [ ] Refine the service based on real-world results.
+
+### 🌾 Phase 4 — Agricultural Services
+**Target: Months 6–12**
+
+- [ ] Explore soil-testing coordination services.
+- [ ] Establish relationships with reliable agricultural suppliers.
+- [ ] Explore fertiliser and agricultural input delivery.
+- [ ] Introduce agricultural market-price information with reliable sources.
+- [ ] Evaluate costs, pricing, and business sustainability.
+
+### 📡 Phase 5 — Smart Farming & Expansion
+**Target: Years 1–2**
+
+- [ ] Develop and validate smart field-monitoring solutions.
+- [ ] Explore sensor installation and maintenance services.
+- [ ] Improve farmer access through Tamil-language support.
+- [ ] Expand the service offering based on farmer demand.
+- [ ] Build a reliable network of agricultural partners.
+
+### 🏢 Phase 6 — Long-Term Vision
+**Target: Years 2–5 and Beyond**
+
+- [ ] Explore establishing a formal agricultural services company.
+- [ ] Expand into additional farming communities and regions.
+- [ ] Build partnerships across agricultural supply and technology.
+- [ ] Create employment opportunities as the business grows.
+- [ ] Reinvest in innovation, service quality, and farmer support.
+
+> **Our vision:** To grow En Vayal into a trusted agricultural services company that combines practical farming support with technology, helping farmers access useful services while creating opportunities for sustainable growth.
+
+**Note:** This roadmap represents planned goals, not completed or currently available services. Timelines are indicative and may change based on research, resources, partnerships, and farmer feedback.
+
 
 ## 📁 Planned Project Structure
 
