@@ -3,7 +3,7 @@
 
 # 🌾 En Vayal | என் வயல்
 
-### Smarter Farming. Stronger Futures.
+### Smarter Farming. Stronger Futures. Easy to use.
 
 **Technology with a purpose. Innovation rooted in agriculture.**
 
