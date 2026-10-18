@@ -1,4 +1,16 @@
+<p align="center">
+  <img
+    src="assets/En-Vayal-Banner.png"
+    alt="En Vayal — Smarter Farming. Stronger Futures."
+    width="100%"
+  />
+</p>
 
+<h1 align="center">🌾 En Vayal — என் வயல்</h1>
+
+<p align="center">
+  <em>Smarter Farming. Stronger Futures.</em>
+</p>
 <div align="center">
 
 # 🌾 En Vayal | என் வயல்
