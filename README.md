@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="assets/En-Vayal-Banner.png"
+    src="assets/En-Vayal-Banner.jpg"
     alt="En Vayal — Smarter Farming. Stronger Futures."
     width="100%"
   />
