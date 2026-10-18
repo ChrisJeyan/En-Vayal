@@ -6,8 +6,6 @@
   />
 </p>
 
-<h1 align="center">🌾 En Vayal — என் வயல்</h1>
-
 <p align="center">
   <em>Smarter Farming. Stronger Futures.</em>
 </p>
@@ -15,7 +13,6 @@
 
 # 🌾 En Vayal | என் வயல்
 
-### Smarter Farming. Stronger Futures. Easy to use.
 
 **Technology with a purpose. Innovation rooted in agriculture.**
 
